@@ -11,8 +11,8 @@
 // @exclude      https://www.youtube.com/live_chat_replay?*
 // @grant        none
 // @license      MIT
-// @downloadURL https://update.greasyfork.org/scripts/408016/Youtube%20Ad%20Auto%20Skipper.user.js
-// @updateURL https://update.greasyfork.org/scripts/408016/Youtube%20Ad%20Auto%20Skipper.meta.js
+// @downloadURL https://github.com/Oyaki122/y-ad-skipper/raw/main/y-ad-skipper.user.js
+// @updateURL https://github.com/Oyaki122/y-ad-skipper/raw/main/y-ad-skipper.user.js
 // ==/UserScript==
 
 
