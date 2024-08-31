@@ -100,6 +100,7 @@
             }
             newmev.preventDefault = () => args2[0].preventDefault.bind(this)
             newmev.stopPropagation = () => args2[0].stopPropagation.bind(this)
+            newmev.composedPath = () => args2[0].composedPath.bind(this)
             // newmev.__proto__ = PointerEvent.prototype
             // console.log(typeof newmev.preventDefault)
 
