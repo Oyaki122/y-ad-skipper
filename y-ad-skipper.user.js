@@ -5,7 +5,7 @@
 // @version      3.01
 // @description  Automatically click Ad Skip button on Youtube
 // @description:ja  自動でYoutubeの広告のスキップボタンを押します
-// @author       N.Y.Boyu
+// @author       N.Y.Boyu and Oyaki122
 // @match        https://www.youtube.com/*
 // @exclude      https://www.youtube.com/live_chat?*
 // @exclude      https://www.youtube.com/live_chat_replay?*
