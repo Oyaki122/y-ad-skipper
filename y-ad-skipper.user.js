@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Youtube Ad Auto Skipper
 // @name:ja      Youtube広告自動スキップ
-// @namespace    https://greasyfork.org/users/175598
+// @namespace    https://github.com/Oyaki122
 // @version      3.01
 // @description  Automatically click Ad Skip button on Youtube
 // @description:ja  自動でYoutubeの広告のスキップボタンを押します
