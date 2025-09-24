@@ -7,8 +7,11 @@
 // @description:ja  自動でYoutubeの広告のスキップボタンを押します
 // @author       N.Y.Boyu and Oyaki122
 // @match        https://www.youtube.com/*
+// @match        https://youtube.com/*
 // @exclude      https://www.youtube.com/live_chat?*
 // @exclude      https://www.youtube.com/live_chat_replay?*
+// @exclude      https://youtube.com/live_chat?*
+// @exclude      https://youtube.com/live_chat_replay?*
 // @grant        none
 // @license      MIT
 // @downloadURL https://github.com/Oyaki122/y-ad-skipper/raw/main/y-ad-skipper.user.js
